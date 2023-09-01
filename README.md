@@ -1,4 +1,4 @@
-# Noivern
+# Noibat
 O programa mostrará todas as músicas de todos os albuns do artista selecionado pelo usuário e pedirá notas para cada música de 0 a 10. Após respondido o usuário receberá uma lista com seus albuns favoritos com base na média de cada album.
 
 # Modo de uso:
