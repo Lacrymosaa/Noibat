@@ -6,5 +6,5 @@ O programa mostrará todas as músicas de todos os albuns do artista selecionado
 - Modifique as linhas de ID e Secret com as credenciais. 
 
 # Implementar:
-- Interface gráfica
+- UI
 - Apresentação
